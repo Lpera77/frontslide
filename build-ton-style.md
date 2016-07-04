@@ -88,8 +88,8 @@ pour les `<p>` se trouvant dans un `<section>` (darken, lighten)
 --
 
 9. Faire une mixin qui défini un bord de 2px pixels et la couleur de text avec la couleur passé en paramètre
-10. Appliquer là aux `<li>` avec la couleur de votre choix
-11. Et aus titre `<h1>` avec une autre couleur
+10. Appliquer la aux `<li>` avec la couleur de votre choix
+11. Et au titre `<h1>` avec une autre couleur
 
 
 ---
